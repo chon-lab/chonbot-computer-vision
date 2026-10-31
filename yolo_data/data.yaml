@@ -1,0 +1,12 @@
+path: C:/Projetos/chonbot-computer-vision/yolo_data  # Defina o caminho absoluto ou relativo correto
+train: images/train
+val: images/val
+
+names:
+  0: Decocco
+  1: Gorlami
+  2: Kombiceptor
+  3: Kombusprime
+  4: Margheriti
+  5: Samu
+  6: bola
